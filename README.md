@@ -1,2 +1,3 @@
 # ONI
-This is the code for our CVPR 2020 paper
+This project is for our accepted CVPR 2020 paper (Oral): Controllable Orthogonalization in Training DNNs.
+
