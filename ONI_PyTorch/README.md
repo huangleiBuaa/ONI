@@ -2,7 +2,7 @@
 This directory/project (Pytorch implementation) provides the ImageNet classification and GAN experiments of the following paper:
 
 **Controllable Orthogonalization in Training DNNs. Lei Huang, Li Liu, Fan Zhu, Diwen Wan, Zehuan Yuan, Bo Li, Ling Shao. CVPR 2020 (accepted)**
-# ONI
+
 
 ## Requirements and Dependency
 * Install [PyTorch](http://torch.ch) with CUDA (for GPU). (Experiments are validated on python 3.6.8 and pytorch 1.0.1)
