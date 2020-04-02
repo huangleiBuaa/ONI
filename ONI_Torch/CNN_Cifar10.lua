@@ -24,7 +24,7 @@ cmd:text('Validate the ONI on VGG Style Networks')
 cmd:text()
 cmd:text('Options')
 
-cmd:option('-dataset','/home/ubuntu/leihuang/torch_work/dataset/cifar10_original.t7','')
+cmd:option('-dataset','./dataset/cifar10_original.t7','')
 cmd:option('-model','P0_plain','')
 cmd:option('-max_epoch',160,'maximum number of epochs')
 cmd:option('-epoch_step',"{80,120}",'epoch step: no lr annealing if it is larger than the maximum')
