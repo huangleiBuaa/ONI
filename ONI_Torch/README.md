@@ -5,7 +5,7 @@ This directory/project (Torch implementation) provides the CIFAR10 classificatio
 
 ## Requirements and Dependency
 * Install [Torch](http://torch.ch) with CUDA GPU
-* Install [cudnn v5](http://torch.ch)
+* Install [cudnn](http://torch.ch)
 * Install dependent lua packages optnet by run:
 luarocks install optnet
 
