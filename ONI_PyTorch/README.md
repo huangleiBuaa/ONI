@@ -29,7 +29,7 @@ The scripts  are in `./GAN/experiments/`. For example, one can  run the ONI on R
    bash execute_ONI_resnet_bce.sh
  ```
 **Note: 1) download the Cifar10 dataset  (we use the Pytorch official Cifar10) and put it in `./data/`;
-2) download the moments of Cifar10 (including the train and test set) from [here](https://drive.google.com/drive/folders/1jdPYebQfZkNzqw-5j5Ru4gmrmZh6vb_v), and put them on `./` 
+2) download the moments of Cifar10 for calculating FID and IS (including the train and test set) from [here](https://drive.google.com/drive/folders/1jdPYebQfZkNzqw-5j5Ru4gmrmZh6vb_v), and put them on `./` 
 
 ## Acknowledgement
 
