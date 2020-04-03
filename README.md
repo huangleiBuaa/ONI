@@ -1,7 +1,7 @@
 # Orthogonalization by Newton's Iteration (ONI) 
 
 Code for reproducing the results of our accpeted CVPR 2020 paper (Oral):
-**Controllable Orthogonalization in Training DNNs**
+**Controllable Orthogonalization in Training DNNs** ([arXiv:2004.00917](https://arxiv.org/abs/2004.00917))
 
 This repo provides the Pytorch and Torch implementations of our methods. 
 * `ONI_PyTorch`: Pytorch project for ImageNet classification and GAN experiments.
